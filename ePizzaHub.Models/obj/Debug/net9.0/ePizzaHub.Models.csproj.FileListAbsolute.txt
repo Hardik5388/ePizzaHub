@@ -1,0 +1,12 @@
+F:\latestTechnologyePizzaHub\ePizzaHub.Core\ePizzaHub.Models\bin\Debug\net9.0\ePizzaHub.Models.deps.json
+F:\latestTechnologyePizzaHub\ePizzaHub.Core\ePizzaHub.Models\bin\Debug\net9.0\ePizzaHub.Models.dll
+F:\latestTechnologyePizzaHub\ePizzaHub.Core\ePizzaHub.Models\bin\Debug\net9.0\ePizzaHub.Models.pdb
+F:\latestTechnologyePizzaHub\ePizzaHub.Core\ePizzaHub.Models\obj\Debug\net9.0\ePizzaHub.Models.csproj.AssemblyReference.cache
+F:\latestTechnologyePizzaHub\ePizzaHub.Core\ePizzaHub.Models\obj\Debug\net9.0\ePizzaHub.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\latestTechnologyePizzaHub\ePizzaHub.Core\ePizzaHub.Models\obj\Debug\net9.0\ePizzaHub.Models.AssemblyInfoInputs.cache
+F:\latestTechnologyePizzaHub\ePizzaHub.Core\ePizzaHub.Models\obj\Debug\net9.0\ePizzaHub.Models.AssemblyInfo.cs
+F:\latestTechnologyePizzaHub\ePizzaHub.Core\ePizzaHub.Models\obj\Debug\net9.0\ePizzaHub.Models.csproj.CoreCompileInputs.cache
+F:\latestTechnologyePizzaHub\ePizzaHub.Core\ePizzaHub.Models\obj\Debug\net9.0\ePizzaHub.Models.dll
+F:\latestTechnologyePizzaHub\ePizzaHub.Core\ePizzaHub.Models\obj\Debug\net9.0\refint\ePizzaHub.Models.dll
+F:\latestTechnologyePizzaHub\ePizzaHub.Core\ePizzaHub.Models\obj\Debug\net9.0\ePizzaHub.Models.pdb
+F:\latestTechnologyePizzaHub\ePizzaHub.Core\ePizzaHub.Models\obj\Debug\net9.0\ref\ePizzaHub.Models.dll

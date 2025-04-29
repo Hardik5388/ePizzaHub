@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ePizzaHub.Core\ePizzaHub.Core.csproj" />
+    <ProjectReference Include="..\ePizzaHub.Models\ePizzaHub.Models.csproj" />
+    <ProjectReference Include="..\ePizzaHub.Repositories\ePizzaHub.Repositories.csproj" />
+    <ProjectReference Include="..\ePizzaHub.Services\ePizzaHub.Services.csproj" />
+  </ItemGroup>
+
+</Project>
