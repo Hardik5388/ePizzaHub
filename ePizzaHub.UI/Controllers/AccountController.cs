@@ -31,7 +31,7 @@ namespace ePizzaHub.UI.Controllers
             UserModel user = _authServices.ValidateUser(model.Email,model.Password);
             if (user != null) 
             {
-                //GenerateTicketAsync(user);
+                GenerateTicketAsync(user);
 
                 if (!string.IsNullOrEmpty(returnUrl))
                 {

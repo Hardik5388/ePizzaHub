@@ -14,10 +14,23 @@
                     <p class="card-text">@item.Description</p>
                     <p>
                         <a href="javascript:void(0)" class="btn btn-primary" onclick="AddToCart
-                                ('@item.Id','#@item.Name','@item.UnitPrice',1)">Add To Cart </a>
+                                ('@item.Id','@item.Name','@item.UnitPrice',1)">Add To Cart </a>
                     </p>
                 </div>
             </div>
         </div>
     }
-</div>      
+</div>     
+
+<div class="toast" id="toastCart">
+    <div class="toast-header">
+        <strong class="me-auto">Notification</strong>
+        <button type="button" class="btn-close" data-dismiss="toast" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="toast-body">
+    </div>
+</div>
+
+
